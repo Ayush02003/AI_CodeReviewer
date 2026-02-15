@@ -16,4 +16,14 @@ This tool is designed to help students and developers quickly check their code w
 * Get suggestions for better practices and optimization
 * Read structured output in a clean interface
 
+## 🌐 Live Demo
+
+ Project is live at:
+
+https://ai-codereviewer-4ok1.onrender.com/
+
+You can deploy the frontend and connect it to this API to test the AI code review functionality.
+
+
 The project demonstrates frontend-backend communication, API integration, and real-time processing of user input using an AI service.
+
